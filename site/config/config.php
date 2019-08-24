@@ -4,6 +4,7 @@
 return [
     'debug'  => true,
     'cache'  => false,
+    'languages' => true,
     'routes' => [
         [
             'pattern' => 'home/(:any)',
