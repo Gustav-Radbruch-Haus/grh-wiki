@@ -1,0 +1,21 @@
+Title: Rent stuff
+
+----
+
+Icon: 
+
+----
+
+Description: Learn what to rent, how to rent it and how much deposit you need
+
+----
+
+Text: 
+
+----
+
+Securedpageenabled: false
+
+----
+
+Securedpageroles: 
