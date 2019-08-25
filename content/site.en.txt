@@ -1,0 +1,43 @@
+Title: GRH - Knowledge Base
+
+----
+
+Footermenu:
+
+- 
+  selectpagetype: internal
+  externalurl: null
+  externalpagetitle: null
+  internalpage:
+    - imprint
+- 
+  selectpagetype: external
+  externalurl: https://www.instagram.com/grh_hh/
+  externalpagetitle: Instagram
+  internalpage: [ ]
+- 
+  selectpagetype: external
+  externalurl: >
+    https://www.facebook.com/groups/5394275645/
+  externalpagetitle: Facebook
+  internalpage: [ ]
+
+----
+
+Securedpageenabled: true
+
+----
+
+Securedpageroles: editor, admin, user
+
+----
+
+Socialmedia:
+
+- 
+  channel: instagram
+  url: https://www.instagram.com/grh_hh/
+- 
+  channel: facebook
+  url: >
+    https://www.facebook.com/groups/5394275645/

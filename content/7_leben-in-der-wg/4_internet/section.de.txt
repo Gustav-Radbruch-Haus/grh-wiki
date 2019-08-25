@@ -1,0 +1,15 @@
+Title: Internet
+
+----
+
+Text:
+
+Im Gustav-Radbruch-Haus gibt es in jedem Zimmer einen Anschluss zum hausinternen Computernetzwerk. Hierüber erfolgt auch der Zugang zum Internet. Nachdem ihr euren PC für den Internetzugang angemeldet habt, werdet ihr automatisch in den E-Mail-Verteiler eingetragen, über den ihr viele Infos z.B. zu Veranstaltungen erhaltet. Klappt das nicht, schaut mal auf folgende Seite:
+
+(link: www.wohnheime.studierendenwerk-hamburg.de/mailman/listinfo/grh text: www.wohnheime.studierendenwerk-hamburg.de/mailman/listinfo/grh)
+
+Wer das Netzwerk missbraucht oder Computerviren in Umlauf bringt, wird zeitweise oder dauerhaft vom Netzbetrieb ausgeschlossen. Dies schließt die unabsichtliche Verbreitung von Viren über einen infizierten PC mit ein. Deswegen sollte jeder seinen Computer durch entsprechen¬de Software wie ein Antivirus- oder ein Firewall Programm schützen. Außerdem können viele Sicherheitslücken durch Updates des Betriebssystems geschlossen werden. Die Sperrung im Fall von Virusinfektionen führt das System automatisch durch, um weitere Infektionen zu vermeiden.
+
+Solltet ihr weitere Fragen oder Probleme mit eurer Internetverbindung haben, wendet euch an:
+
+(email: internet@studierendenwerk-hamburg.de text: internet@studierendenwerk-hamburg.de)

@@ -1,0 +1,12 @@
+[submodule "site/plugins/markdown-field"]
+	path = site/plugins/markdown-field
+	url = https://github.com/sylvainjule/kirby-markdown-field.git
+[submodule "site/plugins/icons-field"]
+	path = site/plugins/icons-field
+	url = https://github.com/SamuelRiversMoore/icons-field.git
+[submodule "kirby"]
+	path = kirby
+	url = https://github.com/getkirby/kirby.git
+[submodule "site/plugins/securedpages"]
+	path = site/plugins/securedpages
+	url = https://github.com/kerli81/kirby-securedpages.git

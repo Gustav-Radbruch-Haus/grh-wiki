@@ -1,0 +1,18 @@
+title: Home Page
+preset: page
+
+fields:
+  headline:
+    label: Headline
+    type: text
+
+sidebar:
+  security: 
+    type: fields
+    fields:
+      security: fields/kerli81.securedpages.pageconfiguration
+  pages:
+    type: pages
+  files:
+    type: files
+  

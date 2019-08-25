@@ -1,0 +1,28 @@
+title: Article
+preset: page
+icon: 📝
+pages:
+  template:
+    - section
+
+status:
+  draft: true
+  unlisted:
+    label: Hidden Page
+    text: The page is not listed in the main menu
+  listed:
+    label: Menu Page
+    text: The page is listed in the main menu```
+
+fields:
+  icon:
+    label: Descriptive icon
+    type: icons
+  description:
+    label: Description
+    type: markdown
+    help: The description is shown at the start page
+  text:
+    label: Text
+    type: markdown
+    size: large

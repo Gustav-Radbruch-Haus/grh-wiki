@@ -1,0 +1,10 @@
+title: Article section
+preset: page
+icon: 📝
+pages: false
+
+fields:
+  text:
+    label: Text
+    type: markdown
+    size: large
