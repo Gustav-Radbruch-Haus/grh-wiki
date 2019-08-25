@@ -7,7 +7,7 @@
 		"uuidString": "A86C93CC-4456-4955-86AC-E5C28E3FC361"
 		}
 	],
-"creatorBuild": "29156",
+"creatorBuild": "31491",
 "files": {
 	"/bootstrap/js/dist/alert.js": {
 		"bF": 0,
@@ -725,7 +725,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_alert.css",
+		"oAP": "/css/_alert.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -738,7 +738,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_badge.css",
+		"oAP": "/css/_badge.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -751,7 +751,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_breadcrumb.css",
+		"oAP": "/css/_breadcrumb.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -764,7 +764,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_button-group.css",
+		"oAP": "/css/_button-group.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -777,7 +777,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_buttons.css",
+		"oAP": "/css/_buttons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -790,7 +790,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_card.css",
+		"oAP": "/css/_card.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -803,7 +803,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_carousel.css",
+		"oAP": "/css/_carousel.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -816,7 +816,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_close.css",
+		"oAP": "/css/_close.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -829,7 +829,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_code.css",
+		"oAP": "/css/_code.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -842,7 +842,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_custom-forms.css",
+		"oAP": "/css/_custom-forms.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -855,7 +855,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_dropdown.css",
+		"oAP": "/css/_dropdown.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -868,7 +868,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_forms.css",
+		"oAP": "/css/_forms.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -881,7 +881,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_functions.css",
+		"oAP": "/css/_functions.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -894,7 +894,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_grid.css",
+		"oAP": "/css/_grid.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -907,7 +907,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_images.css",
+		"oAP": "/css/_images.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -920,7 +920,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_input-group.css",
+		"oAP": "/css/_input-group.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -933,7 +933,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_jumbotron.css",
+		"oAP": "/css/_jumbotron.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -946,7 +946,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_list-group.css",
+		"oAP": "/css/_list-group.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -959,7 +959,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_media.css",
+		"oAP": "/css/_media.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -972,7 +972,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_mixins.css",
+		"oAP": "/css/_mixins.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -985,7 +985,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_modal.css",
+		"oAP": "/css/_modal.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -998,7 +998,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_nav.css",
+		"oAP": "/css/_nav.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1011,7 +1011,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_navbar.css",
+		"oAP": "/css/_navbar.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1024,7 +1024,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_pagination.css",
+		"oAP": "/css/_pagination.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1037,7 +1037,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_popover.css",
+		"oAP": "/css/_popover.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1050,7 +1050,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_print.css",
+		"oAP": "/css/_print.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1063,7 +1063,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_progress.css",
+		"oAP": "/css/_progress.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1076,7 +1076,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_reboot.css",
+		"oAP": "/css/_reboot.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1089,7 +1089,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_root.css",
+		"oAP": "/css/_root.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1102,7 +1102,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_spinners.css",
+		"oAP": "/css/_spinners.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1115,7 +1115,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_tables.css",
+		"oAP": "/css/_tables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1128,7 +1128,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_toasts.css",
+		"oAP": "/css/_toasts.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1141,7 +1141,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_tooltip.css",
+		"oAP": "/css/_tooltip.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1154,7 +1154,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_transitions.css",
+		"oAP": "/css/_transitions.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1167,7 +1167,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_type.css",
+		"oAP": "/css/_type.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1180,7 +1180,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_utilities.css",
+		"oAP": "/css/_utilities.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1193,7 +1193,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/_variables.css",
+		"oAP": "/css/_variables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1206,7 +1206,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/bootstrap/scss/bootstrap-grid.css",
+		"oAP": "/css/bootstrap-grid.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1219,7 +1219,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/bootstrap/scss/bootstrap-reboot.css",
+		"oAP": "/css/bootstrap-reboot.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1232,7 +1232,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/bootstrap.css",
+		"oAP": "/css/bootstrap.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1245,7 +1245,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_alert.css",
+		"oAP": "/css/_alert.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1258,7 +1258,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_background-variant.css",
+		"oAP": "/css/_background-variant.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1271,7 +1271,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_badge.css",
+		"oAP": "/css/_badge.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1284,7 +1284,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_border-radius.css",
+		"oAP": "/css/_border-radius.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1297,7 +1297,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_box-shadow.css",
+		"oAP": "/css/_box-shadow.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1310,7 +1310,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_breakpoints.css",
+		"oAP": "/css/_breakpoints.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1323,7 +1323,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_buttons.css",
+		"oAP": "/css/_buttons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1336,7 +1336,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_caret.css",
+		"oAP": "/css/_caret.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1349,7 +1349,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_clearfix.css",
+		"oAP": "/css/_clearfix.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1362,7 +1362,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_deprecate.css",
+		"oAP": "/css/_deprecate.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1375,7 +1375,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_float.css",
+		"oAP": "/css/_float.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1388,7 +1388,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_forms.css",
+		"oAP": "/css/_forms.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1401,7 +1401,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_gradients.css",
+		"oAP": "/css/_gradients.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1414,7 +1414,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_grid-framework.css",
+		"oAP": "/css/_grid-framework.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1427,7 +1427,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_grid.css",
+		"oAP": "/css/_grid.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1440,7 +1440,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_hover.css",
+		"oAP": "/css/_hover.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1453,7 +1453,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_image.css",
+		"oAP": "/css/_image.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1466,7 +1466,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_list-group.css",
+		"oAP": "/css/_list-group.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1479,7 +1479,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_lists.css",
+		"oAP": "/css/_lists.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1492,7 +1492,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_nav-divider.css",
+		"oAP": "/css/_nav-divider.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1505,7 +1505,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_pagination.css",
+		"oAP": "/css/_pagination.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1518,7 +1518,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_reset-text.css",
+		"oAP": "/css/_reset-text.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1531,7 +1531,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_resize.css",
+		"oAP": "/css/_resize.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1544,7 +1544,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_screen-reader.css",
+		"oAP": "/css/_screen-reader.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1557,7 +1557,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_size.css",
+		"oAP": "/css/_size.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1570,7 +1570,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_table-row.css",
+		"oAP": "/css/_table-row.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1583,7 +1583,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_text-emphasis.css",
+		"oAP": "/css/_text-emphasis.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1596,7 +1596,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_text-hide.css",
+		"oAP": "/css/_text-hide.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1609,7 +1609,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_text-truncate.css",
+		"oAP": "/css/_text-truncate.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1622,7 +1622,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_transition.css",
+		"oAP": "/css/_transition.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1635,7 +1635,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/mixins/_visibility.css",
+		"oAP": "/css/_visibility.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1648,7 +1648,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/utilities/_align.css",
+		"oAP": "/css/_align.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1661,7 +1661,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/utilities/_background.css",
+		"oAP": "/css/_background.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1674,7 +1674,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/utilities/_borders.css",
+		"oAP": "/css/_borders.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1687,7 +1687,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/utilities/_clearfix.css",
+		"oAP": "/css/_clearfix.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1700,7 +1700,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/utilities/_display.css",
+		"oAP": "/css/_display.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1713,7 +1713,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/utilities/_embed.css",
+		"oAP": "/css/_embed.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1726,7 +1726,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/utilities/_flex.css",
+		"oAP": "/css/_flex.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1739,7 +1739,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/utilities/_float.css",
+		"oAP": "/css/_float.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1752,7 +1752,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/utilities/_overflow.css",
+		"oAP": "/css/_overflow.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1765,7 +1765,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/utilities/_position.css",
+		"oAP": "/css/_position.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1778,7 +1778,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/utilities/_screenreaders.css",
+		"oAP": "/css/_screenreaders.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1791,7 +1791,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/utilities/_shadows.css",
+		"oAP": "/css/_shadows.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1804,7 +1804,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/utilities/_sizing.css",
+		"oAP": "/css/_sizing.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1817,7 +1817,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/utilities/_spacing.css",
+		"oAP": "/css/_spacing.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1830,7 +1830,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/utilities/_stretched-link.css",
+		"oAP": "/css/_stretched-link.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1843,7 +1843,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/utilities/_text.css",
+		"oAP": "/css/_text.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1856,7 +1856,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/utilities/_visibility.css",
+		"oAP": "/css/_visibility.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1869,10 +1869,20 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/bootstrap/scss/vendor/_rfs.css",
+		"oAP": "/css/_rfs.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"/css/theme.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/theme-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/theme.scss": {
 		"aP": 1,
@@ -1882,7 +1892,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/Users/Riley/Sites/htdocs/coderdocs-theme-bs4/coderdocs-theme-git/assets/css/theme.css",
+		"oAP": "/css/theme.css",
 		"oF": 6,
 		"oS": 3,
 		"uL": 1
@@ -1895,7 +1905,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/theme/_base.css",
+		"oAP": "/css/_base.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1908,7 +1918,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/theme/_docs.css",
+		"oAP": "/css/_docs.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1921,7 +1931,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/theme/_mixins.css",
+		"oAP": "/css/_mixins.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1934,7 +1944,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/theme/styles.css",
+		"oAP": "/css/styles.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1949,10 +1959,12 @@
 	"displayValue": "CodeDocs Git",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-confession",
-	"iconImageWasSetByUser": 0
+	"iconImageWasSetByUser": 0,
+	"lastBuiltDate": 588330619.65133405
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
+	"allowInjectionReloads": 1,
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
@@ -1964,6 +1976,7 @@
 	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
+	"babelExcludeString": "/\\/node_modules\\//, /\\/core-js\\//, /\\/bower_components\\//",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
@@ -2103,6 +2116,9 @@
 		"modules-umd": {
 			"active": 0
 			},
+		"named-capturing-groups-regex": {
+			"active": 0
+			},
 		"new-target": {
 			"active": 0
 			},
@@ -2134,6 +2150,9 @@
 			"active": 0
 			},
 		"parameters": {
+			"active": 0
+			},
+		"partial-application": {
 			"active": 0
 			},
 		"pipeline-operator": {
@@ -2228,11 +2247,10 @@
 			}
 		},
 	"babelRetainLines": 0,
+	"babelUseBuiltInsType": 0,
 	"bowerAbbreviatedPath": "bower_components",
-	"bowerAutoCreateInfoFile": 1,
-	"bowerInstallDevDependencies": 0,
-	"bowerSaveDependencies": 1,
-	"bowerSaveDevDependencies": 0,
+	"bowerForceLatestOnConflict": 1,
+	"bowerTargetDependencyListType": 1,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
@@ -3237,6 +3255,10 @@
 			"active": 0,
 			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
+		"prefer-named-capture-group": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
@@ -3922,10 +3944,10 @@
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "../css",
-		"autoOutputPathReplace1": "sass",
+		"autoOutputPathRelativePath": "../../css",
+		"autoOutputPathReplace1": "scss",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 0,
+		"autoOutputPathStyle": 1,
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
@@ -3990,6 +4012,11 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"npmAbbreviatedPath": "",
+	"npmCreatePackageLock": 1,
+	"npmInstallOptionalDependencies": 0,
+	"npmSaveExactVersion": 0,
+	"npmTargetDependencyListType": 1,
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules",

@@ -39,6 +39,51 @@
 
 
 /* Docs page */
+nav.languages {
+	// position: relative;
+	width: 100%;
+	position: absolute;
+	
+	ul {
+		background-color: #FFF;
+		display: inline-block;
+		padding: 0;
+		height: 40px;
+		overflow: hidden;
+		transition: all .3s ease;
+		margin: 0 50px 10px 0;
+		vertical-align: top;
+		float: left;
+		border: 1px solid #EEE;
+		border-radius: 5px;
+		&:hover {
+			/* don't forget the 1px border */
+			height: 121px;
+		}
+	}
+
+	li {
+		display: block;
+		padding: 0px 20px;
+		line-height: 40px;
+		border-top: 1px solid #EEE;
+
+		&:hover{
+			background-color: #EEE;
+		}
+	}
+
+	a {
+		color: #000;
+		text-decoration: none;
+
+		&:first-child li {
+			border: none;
+			background: #FFF !important;
+		}
+	}
+}
+
 .search-form {
     position: relative;
     width: 100%;

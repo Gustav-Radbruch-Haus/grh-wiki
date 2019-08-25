@@ -1,9 +1,9 @@
 <?php snippet('header') ?>
 <div class="docs-wrapper">
-<?php snippet('sidenav',['data' => page('home')]) ?>
+<?php snippet('sidenav',['data' => $site->children()->listed()]) ?>
   <main class="docs-content">
     <div class="container">
-    <?php foreach(page('home')->children()->listed() as $childpage): ?>
+    <?php foreach($site->children()->listed() as $childpage): ?>
       <?php snippet('article',['data' => $childpage]) ?>
     <?php endforeach ?>
     </div>

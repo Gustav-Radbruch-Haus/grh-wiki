@@ -10,7 +10,7 @@
             <div class="card-text">
                 <?= $data->description()->kt() ?>
             </div>
-            <a class="card-link-mask" href="articles#<?= $data->uid() ?>"></a>
+            <a class="card-link-mask" href="<?= $kirby->language()->code() ?>/articles#<?= $data->uid() ?>"></a>
         </div><!--//card-body-->
     </div><!--//card-->
 </div><!--//col-->

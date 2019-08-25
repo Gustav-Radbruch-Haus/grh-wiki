@@ -5,15 +5,16 @@ return [
     'debug'  => true,
     'cache'  => false,
     'languages' => true,
+    'languages.detect' => true,
     'routes' => [
         [
-            'pattern' => 'home/(:any)',
+            'pattern' => '(:any)/home/(:any)',
             'action'  => function () {
                 return go('home');
             }
         ],
         [
-          'pattern' => 'logout',
+          'pattern' => '(:any)/logout',
           'action'  => function() {
             if ($user = kirby()->user()) {
               $user->logout();
@@ -22,7 +23,7 @@ return [
           }
         ],
         [
-          'pattern' => 'articles',
+          'pattern' => '(:any)/articles',
           'action'  => function () {
             return new Page([
               'slug' => 'articles',

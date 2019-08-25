@@ -62,5 +62,8 @@ $theme-colors: (
 
 
 /*************************** Theme Styles Section ****************************/
-@import "theme/styles.scss"
+@import "theme/styles.scss";
 
+
+/*************************** Flag CSS ****************************/
+@import "flag-icon/flag-icon.scss";

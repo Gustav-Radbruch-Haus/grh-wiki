@@ -21,7 +21,7 @@
 	    <div class="container">
 		    <div class="docs-overview py-5">
 			    <div class="row justify-content-center">
-            <?php foreach($page->children()->listed() as $childpage): ?>
+            <?php foreach($pages->listed() as $childpage): ?>
             <?php snippet('card', ['data' => $childpage]) ?>
 
             <?php endforeach ?>
