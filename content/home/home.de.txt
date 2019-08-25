@@ -1,0 +1,35 @@
+Title: Home
+
+----
+
+Headline: Welcome to our Knowledge Base
+
+----
+
+Securedpageenabled: true
+
+----
+
+Securedpageroles: user, admin, editor
+
+----
+
+Text: 
+
+----
+
+Blocks:
+
+- 
+  title: Events
+  _key: events
+  _uid: events_1561614793711_277
+- 
+  title: News
+  _key: news
+  _uid: news_1561614991815_254
+- 
+  title: Hello!
+  text: Test
+  _key: text
+  _uid: text_1561616406635_289

@@ -1,0 +1,19 @@
+Title: Welcome Tutoren
+
+----
+
+Description: Die Welcome Tutoren begrüßen und helfen euch, sich im Wohnheim zurecht zu finden.
+
+----
+
+Text:
+
+Die Welcome-Tutoren möchten internationalen Studierenden den Start in Hamburg erleichtern, ihre Integration im GRH unterstützen und die Bewohner miteinander vernetzen, z.B. durch Aktionen wie einem gemeinsamen Frühstück und andere Events. Sie bieten Hilfestellung bei Fragen zum Wohnen, Studieren und Jobben. Zurzeit sind am GRH drei Tutoren beschäftigt, deren Kontaktdaten an der Tür des Hausverwaltungsbüros am Eingang aushängen.
+
+E-Mail: (email: tutor-grh@studierendenwerk-hamburg.de text: tutor-grh@studierendenwerk-hamburg.de) 
+
+**Wichtig:** Die Welcome-Tutoren können euch bei vielen Dingen helfen, beim Verlust eures Schlüssels jedoch nicht. Die Tutoren haben keinen Zugang zu den Wohnungen und Zimmern und können euch daher nicht in eure Zimmer lassen, falls ihr euren Schlüssel verliert oder euch aussperrt.
+
+----
+
+Icon: 
