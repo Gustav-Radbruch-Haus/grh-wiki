@@ -8,12 +8,12 @@
         <div class="container">
           <h1 class="page-heading single-col-max mx-auto"><?= $page->headline() ?></h1>
           <div class="page-intro single-col-max mx-auto"><?= $page->text()->kt() ?></div>
-          <div class="main-search-box pt-3 d-block mx-auto">
+          <!-- <div class="main-search-box pt-3 d-block mx-auto">
                   <form class="search-form w-100">
                   <input type="text" placeholder="Search the docs..." name="search" class="form-control search-input">
                   <button type="submit" class="btn search-btn" value="Search"><i class="fas fa-search"></i></button>
               </form>
-              </div>
+              </div> -->
         </div>
       </div><!--//page-header-->
 

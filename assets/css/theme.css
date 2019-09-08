@@ -7348,7 +7348,7 @@ a.theme-link {
 
 /* Docs page */
 nav.languages {
-  width: 100%;
+  right: 0;
   position: absolute; }
   nav.languages ul {
     background-color: #FFF;
@@ -7359,12 +7359,11 @@ nav.languages {
     transition: all .3s ease;
     margin: 0 50px 10px 0;
     vertical-align: top;
-    float: left;
     border: 1px solid #EEE;
     border-radius: 5px; }
     nav.languages ul:hover {
       /* don't forget the 1px border */
-      height: 121px; }
+      height: 81px; }
   nav.languages li {
     display: block;
     padding: 0px 20px;
@@ -7378,6 +7377,10 @@ nav.languages {
     nav.languages a:first-child li {
       border: none;
       background: #FFF !important; }
+
+@media (max-width: 470px) {
+  nav.languages {
+    visibility: hidden; } }
 
 .search-form {
   position: relative;
@@ -7495,7 +7498,7 @@ nav.languages {
   padding: 1rem; }
   .docs-nav .section-title {
     font-size: 1rem;
-    margin-bottom: 1rem; }
+    margin-top: 1rem; }
     .docs-nav .section-title a:hover {
       text-decoration: none; }
   .docs-nav .section-items {

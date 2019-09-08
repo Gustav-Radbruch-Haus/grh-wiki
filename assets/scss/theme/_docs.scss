@@ -41,7 +41,7 @@
 /* Docs page */
 nav.languages {
 	// position: relative;
-	width: 100%;
+	right: 0;
 	position: absolute;
 	
 	ul {
@@ -53,12 +53,11 @@ nav.languages {
 		transition: all .3s ease;
 		margin: 0 50px 10px 0;
 		vertical-align: top;
-		float: left;
 		border: 1px solid #EEE;
 		border-radius: 5px;
 		&:hover {
 			/* don't forget the 1px border */
-			height: 121px;
+			height: 81px;
 		}
 	}
 
@@ -81,6 +80,13 @@ nav.languages {
 			border: none;
 			background: #FFF !important;
 		}
+	}
+}
+
+// Small devices (landscape phones, 576px and up)
+@media (max-width: 470px) {  
+	nav.languages {
+		visibility: hidden;
 	}
 }
 
@@ -216,7 +222,7 @@ nav.languages {
 	
 	.section-title {
 		font-size: 1rem;
-		margin-bottom: 1rem;
+		margin-top: 1rem;
 		a {
 			&:hover {
 				text-decoration: none;

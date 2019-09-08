@@ -7,7 +7,7 @@
         </div>
     <nav id="docs-nav" class="docs-nav navbar">
       <ul class="section-items list-unstyled nav flex-column pb-3">
-        <?php foreach($data->children()->listed() as $childpage): ?>
+        <?php foreach($data as $childpage): ?>
         <li class="nav-item section-title"><a class="nav-link scrollto active" href="#<?= $childpage->uid() ?>"><span class="theme-icon-holder mr-2"><i class="fas fa-map-signs"></i></span><?= $childpage->title() ?></a></li>
           <?php foreach($childpage->children()->listed() as $section): ?>
           <li class="nav-item"><a class="nav-link scrollto" href="#<?= $section->uid() ?>"><?= $section->title() ?></a></li>

@@ -23,12 +23,26 @@ return [
           }
         ],
         [
-          'pattern' => '(:any)/articles',
-          'action'  => function () {
-            return new Page([
+          'pattern' => '(de|en)/articles',
+          'action'  => function ($lang) {
+            $data = [
               'slug' => 'articles',
-              'template' => 'articles'
-            ]);
+              'template' => 'articles',
+              'translations' => [
+                  'en' => [
+                      'code' => 'en'
+                  ],
+                  'de' => [
+                      'code' => 'de'
+                  ]
+              ],
+            ];
+
+            $page = Page::factory($data);
+
+            site()->visit($page, $lang);
+
+            return $page;
           }
         ]
     ],
