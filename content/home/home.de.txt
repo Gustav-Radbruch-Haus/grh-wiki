@@ -2,7 +2,7 @@ Title: Home
 
 ----
 
-Headline: Welcome to our Knowledge Base
+Headline: Willkommen zum Wiki
 
 ----
 

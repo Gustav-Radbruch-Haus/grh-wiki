@@ -2,7 +2,7 @@
 
 return [
     'code' => 'en',
-    'default' => true,
+    'default' => false,
     'direction' => 'ltr',
     'locale' => [
         'en_US'

@@ -2,7 +2,7 @@
 
 return [
     'code' => 'de',
-    'default' => false,
+    'default' => true,
     'direction' => 'ltr',
     'locale' => [
         'de_DE'

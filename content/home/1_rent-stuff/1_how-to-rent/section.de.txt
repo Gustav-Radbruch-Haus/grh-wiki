@@ -1,0 +1,25 @@
+Title: How to rent
+
+----
+
+Text:
+
+In order to make a renting request, please send an Email to (email: rentals@grh-hamburg.de text: rentals@grh-hamburg.de). The Email must be structured as following:
+1. The subject must include the desired object to rent and the date and duration (start and end)
+2. The body text of the Email must include the mandatory information in the following way:
+    1. Your whole name					
+    2. Your apartment number
+    3. Object to rent
+    4. Date and duration of the rental (same as in the subject)
+    5. Exact count of people (doesn’t apply for board games, bicycle workshop and grill 	rentals)
+    6. Your contact details (phone number) - please make a note if you use WhatsApp.
+    7. Planned activity (only applies for the Tea Room)
+Note: If you are SHC member or AG Leader, please mention it explicitly (SHC member or AG Leader) in subject too
+
+### Example:
+|What|How|
+|--|--|
+|Subject of the Email| Tea Room 25.05.2019 15:00-21:00|
+|Body text|1. Name: Maria Müller<br>2. Appartment number: H.14.1.a<br>3. Object to rent: Tea Room<br>4. Date and duration of the rental : 25.05.2019 15:00-21:00<br>5. Exact count of people: 6 people<br>6. Contact details: +4915731231231 (I use WhatsApp)<br>7. Planned activity: meeting with my study group for an uni project|
+
+We will answer your request as fast as possible (usually within a couple of hours).
